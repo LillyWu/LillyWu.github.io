@@ -1,13 +1,11 @@
 ---
 title: Blackbox Exporter in Practice
+author:      Lilly Wu
+date:        September 12, 2017
 ---
 
 
 # Blackbox Exporter in Practice
-Title:       Blackbox Exporter in Practice  
-Project:     Blackbox Exporter  
-Author:      Lilly Wu  
-Date:        September 12, 2017  
 
 The blogpost is for the user who is familiar with prometheus and alertmanager but has no idea of blackbox exporter setup.
 Blackbox exporter is used to expose metrics to prometheus as other exporters. Specially, it's for probing endpoints over **HTTP, HTTPS, DNS, TCP and ICMP**.
