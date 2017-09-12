@@ -1,6 +1,8 @@
 ---
 title: Blackbox Exporter in Practice
 ---
+
+
 # Blackbox Exporter in Practice
 Title:       Blackbox Exporter in Practice  
 Project:     Blackbox Exporter  
