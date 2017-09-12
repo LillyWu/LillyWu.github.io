@@ -113,4 +113,4 @@ time="2017-09-12T07:14:30Z" level=error msg="Error for HTTP request to http://10
 time="2017-09-12T07:14:40Z" level=error msg="Error for HTTP request to http://10.0.2.15:8080: Get http://10.0.2.15:8080: dial tcp 10.0.2.15:8080: getsockopt: connection refused" source="http.go:178"
 ```
 ### 2. Check Prometheus dashboard
-![Alerts Page in Prometheus](../assets/blackbox.png)
+![Alerts Page in Prometheus](https://github.com/LillyWu/LillyWu.github.io/blob/master/assets/blackbox.png)
