@@ -27,7 +27,7 @@ As we know, prometheus could monitoring kubernetes resources well, but there is 
 - Too much node access would cause
 - Can't check prometheus scraping status
 
-### curl service with <node-ip>:<service-port>
+### curl service with `<node-ip>:<service-port>`
 
 **Details:** prometheus service maps to the node with a specific port, and curl `<node-ip>:<service-port>` to check the service in cluster
 
