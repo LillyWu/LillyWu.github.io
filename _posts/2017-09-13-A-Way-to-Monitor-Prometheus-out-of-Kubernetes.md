@@ -50,4 +50,20 @@ As we know, prometheus could monitoring kubernetes resources well, but there is 
 **Disadvantages:** Needs to install kubectl proxy locally
 
 ##  Details
-TBD
+### Fetch certificates and Install kubectl proxy
+1. Get kubernetes certificates to running kubectl command outside of the cluster
+2. Install kubectl proxy refers to the [official doc](https://lukemarsden.github.io/docs/user-guide/prereqs/)
+3. Copy the certificates to folder `/etc/kubernetes/cert`
+4. Start kubectl proxy with command:
+```
+kubectl proxy --port=8001 --accept-hosts='.*' --address='0.0.0.0'
+```
+
+### Construct prometheus proxy url
+1. Get the service config information with `kubectl get svc -n <namespace> -o yaml`
+2. Gather information: **name**, **prometheus.io/path** if it has and `port` number list in ports
+3. Construct prometheus proxy url with information from step 2 as `http://<proxy-hostname>:<port>/api/v1/proxy/namespaces/<YOUR-NAMESPACE>/services/<name>:<port>/<path>`,
+
+### Curl from the host with request kubectl proxy
+Check prometheus status with curl prometheus proxy url which would return metrics if it's functional, and add this to your monitoring system.
+
