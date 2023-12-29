@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lillywu.github.io/academia//sitemap.xml
+Sitemap: https://lillywu.github.io/academia/sitemap.xml
