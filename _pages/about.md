@@ -1,26 +1,26 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Research Fellow
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lilly_postdoc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Contact Info: </p>
+    <p>A313, LGRC, 740 N Pleasant St</p>
+    <p>Amherst, MA 01003</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# latest_posts: true  # includes a list of the newest posts
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my webpage! I am is a Postdoctoral Research Fellow at the [Laboratory for Advanced System Software (LASS)](https://lass.cs.umass.edu/), University of Massachusetts (UMass) Amherst working with [Prof. Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). My main research interests are the ***performance, reliability, security, and sustainability*** of large-scale computing systems (e.g., edge/cloud computing).
+ 
+I earned my Ph.D. in Computer Science at TU Berlin. During my PhD, I closely worked with [Prof. Odej Kao](https://www.tu.berlin/en/dos/team/professor), [Prof. Johan Tordsson](https://www.umu.se/en/staff/johan-tordsson/), [Prof. Erik Elmroth](https://www.umu.se/en/staff/erik-elmroth/), and [Prof. Guillaume Pierre](http://www.globule.org/~gpierre/) .  My Ph.D. dissertation focused on automatic performance diagnosis and recovery for cloud microservices.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also had industrial experience in IBM (Cloud) as a software developer and SRE, and in Bosch Cooperate Research as a senior research scientist, researching on edge computing for infrastructure-assisted autonomous driving.
