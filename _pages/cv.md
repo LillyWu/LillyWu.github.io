@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Curriculum Vitae
 nav: true
 nav_order: 5
-cv_pdf: Li_Wu_CV_10122024.pdf
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Li_Wu_CV.pdf
+description: Download the PDF version of my CV or browse the sections below.
 # toc:
 #   sidebar: left
 ---
