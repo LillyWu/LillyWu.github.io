@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Research Fellow, UMass Amherst
+subtitle: Postdoctoral Associate, UMass Amherst
 
 profile:
   align: right
@@ -16,13 +16,13 @@ profile:
 
 news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome to my webpage! 
 
-I am a Postdoctoral Research Fellow at the [Laboratory for Advanced Software Systems (LASS)](https://lass.cs.umass.edu/), University of Massachusetts (UMass) Amherst, working with [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). My primary research interests focus on the **performance, reliability, and sustainability** of large-scale computing systems (e.g., edge/cloud computing), specifically concerning machine learning workloads and microservices.
+I am a Postdoctoral Associate at the [Laboratory for Advanced Software Systems (LASS)](https://lass.cs.umass.edu/), University of Massachusetts (UMass) Amherst, working with [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). My primary research interests focus on the **performance, reliability, and sustainability** of large-scale computing systems (e.g., edge/cloud computing), specifically concerning machine learning workloads and microservices.
  
 I earned my Ph.D. in Computer Science at TU Berlin, Germany. During my PhD, I closely worked with [Odej Kao](https://www.tu.berlin/en/dos/team/professor), [Johan Tordsson](https://www.umu.se/en/staff/johan-tordsson/), [Erik Elmroth](https://www.umu.se/en/staff/erik-elmroth/), and [Guillaume Pierre](http://www.globule.org/~gpierre/) .  My Ph.D. dissertation focused on automatic performance diagnosis and recovery for cloud microservices. My research work, MicroRCA and MicroDiag, have gained significant interest in the community and are regarded as state-of-the-art methods for many root cause analysis research projects. **The MicroRCA project is [open-sourced](https://github.com/elastisys/MicroRCA)**.
 
