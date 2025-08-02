@@ -2,7 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Associate, UMass Amherst
+subtitle: Making Resilience and Sustainability the System Default
+
+# Postdoctoral Associate, UMass Amherst 
 
 profile:
   align: right
