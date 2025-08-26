@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Will serve on the Technical Program Committee (PC) of [ACM/IFIP Middleware 2026](https://middleware-conf.github.io/2026/).
+Invited to serve on the Technical Program Committee (PC) of [ACM/IFIP Middleware 2026](https://middleware-conf.github.io/2026/).
