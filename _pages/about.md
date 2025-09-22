@@ -30,4 +30,7 @@ I earned my Ph.D. in Computer Science at TU Berlin, Germany. During my PhD, I cl
 
 In addition to my academic achievements, I also had industrial experience as a software developer and Site Reliability Engineer (SRE) at [IBM Cloud](https://www.ibm.com/cloud), as a data scientist at [Elastisys](https://elastisys.com/),  and as a senior research scientist at [Bosch Research](https://www.bosch.com/research/), where I researched on reliable distributed system for autonomous driving.
 
-Outside of work, I enjoy immersing myself in books, music, and art. I'm particularly drawn to impressionism and post-impressionism paintings, jazz, and sci-fi.
+<!-- Outside of work, I enjoy immersing myself in books, music, and art. I'm particularly drawn to impressionism and post-impressionism paintings, jazz, and sci-fi. -->
+<p style="color: red;font-weight: bold;">
+I am currently on the 2025-2026 academic job market. Please feel free to reach out!
+</p>
