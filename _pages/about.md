@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Making Resilience and Sustainability the System Default
+subtitle: Making Reliability and Sustainability the System Default
 
 # Postdoctoral Associate, UMass Amherst 
 
@@ -24,11 +24,11 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my webpage! 
 
-I am a Postdoctoral Associate at the [Laboratory for Advanced Software Systems (LASS)](https://lass.cs.umass.edu/), University of Massachusetts (UMass) Amherst, working with [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). My primary research interests focus on the **performance, resilience, and sustainability** of large-scale computing systems (e.g., edge/cloud computing), specifically concerning machine learning workloads and microservices.
+I am a Postdoctoral Research Associate at the [Laboratory for Advanced Software Systems (LASS)](https://lass.cs.umass.edu/), University of Massachusetts Amherst, working with [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/). My primary research interests focus on the **performance, reliability, and sustainability** of large-scale computing systems (e.g., edge/cloud computing), specifically concerning machine learning workloads and microservices.
  
 I earned my Ph.D. in Computer Science at TU Berlin, Germany. During my PhD, I closely worked with [Odej Kao](https://www.tu.berlin/en/dos/team/professor), [Johan Tordsson](https://www.umu.se/en/staff/johan-tordsson/), [Erik Elmroth](https://www.umu.se/en/staff/erik-elmroth/), and [Guillaume Pierre](http://www.globule.org/~gpierre/) .  My Ph.D. dissertation focused on automatic performance diagnosis and recovery for cloud microservices. My research work, MicroRCA and MicroDiag, have gained significant interest in the community and are regarded as state-of-the-art methods for many root cause analysis research projects. **The MicroRCA project is [open-sourced](https://github.com/elastisys/MicroRCA)**.
 
-In addition to my academic achievements, I also had industrial experience as a software developer and Site Reliability Engineer (SRE) at [IBM Cloud](https://www.ibm.com/cloud), as a data scientist at [Elastisys](https://elastisys.com/),  and as a senior research scientist at [Bosch Research](https://www.bosch.com/research/), where I researched on reliable distributed system for autonomous driving.
+In addition to my academic achievements, I also had industrial experience as a software developer and Site Reliability Engineer (SRE) at [IBM Cloud](https://www.ibm.com/cloud), as a system scientist at [Elastisys](https://elastisys.com/),  and as a senior research scientist at [Bosch Research](https://www.bosch.com/research/), where I researched on reliable distributed system for autonomous driving.
 
 <!-- Outside of work, I enjoy immersing myself in books, music, and art. I'm particularly drawn to impressionism and post-impressionism paintings, jazz, and sci-fi. -->
 <p style="color: red;font-weight: bold;">
