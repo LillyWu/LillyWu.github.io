@@ -82,4 +82,3 @@ latest_posts:
     I am currently on the 2025–2026 academic job market. Please feel free to reach out!
   </p>
 </section>
-
