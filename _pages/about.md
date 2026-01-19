@@ -63,8 +63,6 @@ latest_posts:
     My <a href="https://depositonce.tu-berlin.de/items/41a16609-9269-4b00-ac8e-eb376a207399" target="_blank">dissertation</a> on automatic performance diagnosis and recovery in cloud microservices led to the <strong>MicroX</strong> series, with open-source projects such as <a href="https://github.com/elastisys/MicroRCA" target="_blank">MicroRCA</a> and <a href="https://hub.docker.com/r/lillywu/sock-shop" target="_blank">a fault-injected microservices benchmark</a>. 
   </p>
 
-
-
   <p>
     In the past, I worked as an SRE at 
     <a href="https://www.ibm.com/cloud" target="_blank">IBM Cloud</a>, a 
@@ -75,10 +73,20 @@ latest_posts:
   </p>
 
   <p>
-  You can find my publications and patents on <a href="https://scholar.google.com/citations?user=K6KmzXgAAAAJ" target="_blank">Google Scholar</a> and my CV <a href="/Lilly_CV.pdf">here</a> (Jan. 2026).
+  You can find my publications on <a href="https://scholar.google.com/citations?user=K6KmzXgAAAAJ" target="_blank">Google Scholar</a> and my CV <a href="assets/pdf/Lilly_CV.pdf">here</a> (Jan. 2026).
   </p>
 
   <p style="color: red; font-weight: bold; font-size: 1.1em;">
     I am currently on the 2025–2026 academic job market. Please feel free to reach out!
   </p>
+  <p>
+    See my
+  <a href="assets/pdf/research_statement.pdf" target="_blank">Research Statement</a>
+    and
+  <a href="assets/pdf/teaching_statement.pdf" target="_blank">Teaching Statement</a>.
+  </p>
+
+
 </section>
+
+
