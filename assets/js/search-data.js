@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "publications by categories in reversed chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-research",
           title: "Research",
           description: "I work on making large-scale distributed computing reliable and sustainable under growing hardware constraints and software complexity. My research lies at the intersection of cloud and edge computing, AI/ML, and sustainability.",
           section: "Navigation",
