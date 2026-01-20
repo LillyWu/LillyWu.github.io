@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: I work on making large-scale distributed computing reliable and sustainable under growing hardware constraints and software complexity. My research lies at the intersection of cloud and edge computing, AI/ML, and sustainability. 
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [Current Projects, Old Projects]
 horizontal: false
 ---
