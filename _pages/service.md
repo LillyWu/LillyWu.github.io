@@ -18,6 +18,7 @@ nav_order: 4
     <li>External Review Committee, MLSys 2026</li>
     <li>Shadow Program Committee, EuroSys 2026</li>
     <li>Program Committee, SEC 2025</li>
+    <li>Artifact Evaluation Committee, SOSP 2025</li>
     <li>Reviewer, IEEE Transactions on Cloud Computing 2025</li>
     <li>Reviewer, ICT Express 2025</li>
     <li>Reviewer, IEEE Internet Computing 2024, 2025</li>
