@@ -72,7 +72,7 @@ latest_posts:
     <a href="https://www.bosch.com/research/" target="_blank">Bosch Research</a>, where I gained first-hand exposure to reliability challenges in cloud and edge systems.
   </p>
 
-  <p>
+  <!-- <p>
   You can find my publications on <a href="https://scholar.google.com/citations?user=K6KmzXgAAAAJ" target="_blank">Google Scholar</a> and my CV <a href="assets/pdf/Lilly_CV.pdf">here</a> (Jan. 2026).
   </p>
 
@@ -84,7 +84,7 @@ latest_posts:
   <a href="assets/pdf/research_statement.pdf" target="_blank">Research Statement</a>
     and
   <a href="assets/pdf/teaching_statement.pdf" target="_blank">Teaching Statement</a>.
-  </p>
+  </p> -->
 
 
 </section>
