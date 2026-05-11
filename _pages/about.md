@@ -31,6 +31,11 @@ latest_posts:
     <a href="https://people.cs.umass.edu/~shenoy/" target="_blank">Prof. Prashant Shenoy</a>.
   </p>
 
+  <p style="background-color: #f0f7ff; border-left: 4px solid #2196F3; padding: 10px 15px; border-radius: 4px;">
+    I will be joining the Department of Computing Science at the <a href="https://www.ualberta.ca" target="_blank"> University of Alberta</a> as a tenure-track assistant professor in Fall 2026.<br><br>
+    🔍 <strong>I am actively recruiting PhD and MSc students</strong> starting Fall 2026 or Fall 2027, with interests in <strong>reliable and sustainable AI systems</strong>. If you are interested in working with me, please send me an email with your CV and a brief note about your research interests.
+  </p>
+
   <p>
     My research interests lie broadly in <strong>distributed systems</strong>. I design and build systems and algorithms that enhance the  <strong>reliability</strong> and <strong>sustainability</strong> of large-scale computing through fault tolerance, performance diagnosis, and resource management. I also work on systems for AI, AI for systems, and IoT security. 
     My current research areas include:
