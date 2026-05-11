@@ -74,7 +74,7 @@ latest_posts:
 
   <p style="background-color: #f0f7ff; border-left: 4px solid #2196F3; padding: 10px 15px; border-radius: 4px;">
     I will be joining the Department of Computing Science at the <a href="https://www.ualberta.ca" target="_blank"> University of Alberta</a> as a tenure-track assistant professor in Fall 2026.<br><br>
-    🔍 <strong>I am actively recruiting PhD and MSc students</strong> starting Fall 2026 or Fall 2027, with interests in <strong>reliable and sustainable AI systems</strong>. If you are interested in working with me, please send me an email with your CV and a brief note about your research interests.
+    🔍 <strong>I am actively recruiting PhD and MSc students</strong> (Fall 2026/Fall 2027) and Postdocs, with interests in <strong>reliable and sustainable AI systems</strong>. If you are interested in working with me, please send me an email with your CV and a brief note about your research interests.
   </p>
 
   <!-- <p>
