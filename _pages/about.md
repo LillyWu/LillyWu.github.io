@@ -38,7 +38,7 @@ latest_posts:
 
   <ul>
     <li>
-      <strong>Fault-Tolerant Edge AI Systems:</strong> Low-latency, resource-aware model serving on constrained edge environments (<a href="https://dl.acm.org/doi/pdf/10.1145/3772052.3772243" target="_blank">SoCC 2025</a>, <a href="https://par.nsf.gov/servlets/purl/10547299" target="_blank">ICCCN 2024</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10773652" target="_blank">MILCOM 2024</a>).
+      <strong>Fault-Tolerant Edge AI Systems:</strong> Low-latency, resource-aware model serving on constrained edge environments (<a href="https://dl.acm.org/doi/pdf/10.1145/3772052.3772243" target="_blank">SoCC 2025</a>, <a href="https://par.nsf.gov/servlets/purl/10547299" target="_blank">ICCCN 2024</a>).
     </li>
     <li>
       <strong>Reliable Cloud Microservices:</strong> Intelligent, online diagnosis and recovery from cascading failures at cloud scale (<a href="https://ieeexplore.ieee.org/document/9110353" target="_blank">NOMS 2020</a>, <a href="https://ieeexplore.ieee.org/document/9527007" target="_blank">AIOps 2021</a>, <a href="https://ieeexplore.ieee.org/document/9659495" target="_blank">ACSOS 2021</a>).
