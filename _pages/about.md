@@ -28,14 +28,6 @@ latest_posts:
 <section>
 
   <p>
-      I am establishing the
-       <a href="https://lillywu.github.io/lids/">
-        Laboratory for Impact-Conscious Distributed Systems (LIDS)
-      </a>
-      at the University of Alberta. Please visit our lab website
-      for current research projects and opportunities to join the group.
- </p>
-  <p>
       I am an incoming Assistant Professor in the
       <a href="https://www.ualberta.ca/en/computing-science/">
         Department of Computing Science
@@ -44,6 +36,30 @@ latest_posts:
       Postdoctoral Researcher at the University of Massachusetts
       Amherst, working with Prof. Prashant Shenoy.
   </p>
+
+
+<div style="
+  background-color: #f0f8f2;
+  border-left: 4px solid #008c45;
+  padding: 16px 20px;
+  margin: 24px 0;
+  border-radius: 4px;
+">
+  <p style="margin: 0 0 8px 0;">
+    <strong>📢 New Lab Announcement</strong>
+  </p>
+
+  <p style="margin: 0;">
+    I am excited to announce the establishment of the
+    <a href="https://lillywu.github.io/lids/">
+      Laboratory for Impact-Conscious Distributed Systems (LIDS)
+    </a>
+    at the University of Alberta! We are recruiting PhD/MSc
+    students and postdoctoral researchers. Visit our lab website
+    to learn more about our research and open positions.
+  </p>
+</div>
+
 
   <p>
     My research interests lie broadly in <strong>distributed systems</strong>. I design and build systems and algorithms that enhance the  <strong>reliability</strong> and <strong>sustainability</strong> of large-scale computing through fault tolerance, performance diagnosis, and resource management. I also work on systems for AI, AI for systems, and IoT security. 
