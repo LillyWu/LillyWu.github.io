@@ -26,9 +26,23 @@ latest_posts:
 ---
 
 <section>
+
   <p>
-    I am a Postdoctoral Research Associate at the Manning College of Information & Computer Sciences, University of Massachusetts Amherst, working with 
-    <a href="https://people.cs.umass.edu/~shenoy/" target="_blank">Prof. Prashant Shenoy</a>.
+      I am establishing the
+       <a href="https://lillywu.github.io/lids/">
+        Laboratory for Impact-Conscious Distributed Systems (LIDS)
+      </a>
+      at the University of Alberta. Please visit our lab website
+      for current research projects and opportunities to join the group.
+ </p>
+  <p>
+      I am an incoming Assistant Professor in the
+      <a href="https://www.ualberta.ca/en/computing-science/">
+        Department of Computing Science
+      </a>
+      at the University of Alberta. Previously, I was a
+      Postdoctoral Researcher at the University of Massachusetts
+      Amherst, working with Prof. Prashant Shenoy.
   </p>
 
   <p>
