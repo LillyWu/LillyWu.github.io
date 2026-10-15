@@ -86,10 +86,6 @@ latest_posts:
     <a href="https://www.bosch.com/research/" target="_blank">Bosch Research</a>, where I gained first-hand exposure to reliability challenges in cloud and edge systems.
   </p>
 
-  <p style="background-color: #f0f7ff; border-left: 4px solid #2196F3; padding: 10px 15px; border-radius: 4px;">
-    I will be joining the Department of Computing Science at the <a href="https://www.ualberta.ca" target="_blank"> University of Alberta</a> as a tenure-track assistant professor in Fall 2026.<br><br>
-    🔍 <strong>I am actively recruiting PhD and MSc students</strong> (Fall 2026/Fall 2027) and a Postdoc, with interests in <strong>reliable and sustainable AI systems</strong>. If you are interested in working with me, please send me an email with your CV and a brief note about your research interests.
-  </p>
 
   <!-- <p>
   You can find my publications on <a href="https://scholar.google.com/citations?user=K6KmzXgAAAAJ" target="_blank">Google Scholar</a> and my CV <a href="assets/pdf/Lilly_CV.pdf">here</a> (Jan. 2026).
